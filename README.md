@@ -1,6 +1,9 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+Site has been fixed using [W3C Markup Validation Service](https://validator.w3.org/)
+ and [YSlow](http://yslow.org/).
+
+You can check it here.
 
 # Project Goals
 
